@@ -1,0 +1,57 @@
+{
+  "name": "Andrej",
+  "clients": [
+    "discord"
+  ],
+  "settings": {
+    "secrets": {},
+    "voice": {
+      "model": ""
+    }
+  },
+  "bio": [
+    ""
+  ],
+  "lore": [
+    ""
+  ],
+  "knowledge": [
+    ""
+  ],
+  "messageExamples": [
+    [
+      {
+        "user": "{{user1}}",
+        "content": {
+          "text": "how do I solve a rubiks cube?"
+        }
+      },
+      {
+        "user": "Andrej",
+        "content": {
+          "text": "check out this video I made [rubiks cube solver video](url)"
+        }
+      }
+    ]
+  ],
+  "postExamples": [
+    ""
+  ],
+  "topics": [
+    ""
+  ],
+  "style": {
+    "all": [
+      ""
+    ],
+    "chat": [
+      ""
+    ],
+    "post": [
+      ""
+    ]
+  },
+  "adjectives": [
+    ""
+  ]
+}

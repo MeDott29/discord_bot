@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import asyncio
 import json
 import os
-from dotenv import load_dotenv
+kfrom dotenv import load_dotenv
 
 class MessageDataCollector(commands.Bot):
     def __init__(self):
